@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/user/Документы/LABS/info_4_sem/lab_0/build",
-  "command": "/usr/bin/c++   -std=c++11 -g -g -o CMakeFiles/main.dir/main.cpp.o -c /home/user/Документы/LABS/info_4_sem/lab_0/torus/main.cpp",
-  "file": "/home/user/Документы/LABS/info_4_sem/lab_0/torus/main.cpp",
-  "output": "CMakeFiles/main.dir/main.cpp.o"
-}
-]

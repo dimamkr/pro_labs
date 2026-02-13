@@ -1,3 +1,0 @@
-/home/user/Документы/LABS/info_4_sem/lab_0/build/CMakeFiles/main.dir
-/home/user/Документы/LABS/info_4_sem/lab_0/build/CMakeFiles/edit_cache.dir
-/home/user/Документы/LABS/info_4_sem/lab_0/build/CMakeFiles/rebuild_cache.dir
